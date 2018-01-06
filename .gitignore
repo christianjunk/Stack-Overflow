@@ -187,6 +187,5 @@ tools/*
 !tools/packages.config
 artifacts/
 
-src/.vs/
+/.vs
 
-src/Geomatics.Windows.Clipboard/.vs/
