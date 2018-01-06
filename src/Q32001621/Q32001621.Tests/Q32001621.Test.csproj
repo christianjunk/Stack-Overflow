@@ -7,7 +7,7 @@
     <ProjectGuid>{87016919-A8DE-4AAE-AE99-BA8D1895D80F}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>Stackoverflow.Test</RootNamespace>
-    <AssemblyName>Q32001621</AssemblyName>
+    <AssemblyName>Q32001621.Test</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
